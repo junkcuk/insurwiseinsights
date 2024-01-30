@@ -1,0 +1,39 @@
+{
+  "name": "Insurwise Insights",
+  "short_name": "Insurwise Insights",
+  "scope": "https://insurwiseinsights.blogspot.com",
+  "start_url": "https://insurwiseinsights.blogspot.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "InsurwiseInsights: Your go-to for expertly crafted articles on insurance. Unravel coverage complexities, gain valuable insights for informed decisions. Whether a seasoned policyholder or newcomer, trust our blog as your hub for policy intricacies, risk management, and industry trends. Join us for a journey where knowledge meets assurance, making InsurwiseInsights your guide to a secure insurance experience.",
+  "icons": [{
+    "src": "https://github.com/junkcuk/insurwiseinsights/blob/main/insurwiseinsights64.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://github.com/junkcuk/insurwiseinsights/blob/main/insurwiseinsights72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://github.com/junkcuk/insurwiseinsights/blob/main/insurwiseinsights96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://github.com/junkcuk/insurwiseinsights/blob/main/insurwiseinsights144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://github.com/junkcuk/insurwiseinsights/blob/main/insurwiseinsights168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://github.com/junkcuk/insurwiseinsights/blob/main/insurwiseinsights192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://github.com/junkcuk/insurwiseinsights/blob/main/insurwiseinsights512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
